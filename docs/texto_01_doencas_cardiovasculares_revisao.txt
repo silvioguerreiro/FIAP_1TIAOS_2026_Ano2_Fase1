@@ -1,0 +1,337 @@
+================================================================================
+PROJETO CARDIOIA — FASE 1 (FIAP) | PARTE 2 — DADOS TEXTUAIS (NLP)
+================================================================================
+TITULO: Doencas cardiovasculares: uma revisao narrativa
+AUTORIA: Barbara Aline Ferreira Assuncao
+FONTE: RCMOS - Revista Cientifica Multidisciplinar O Saber (ISSN 2675-9128), Sao Paulo-SP, Ano VII, v. 1, 2026
+URL: https://submissoesrevistarcmos.com.br/rcmos/article/view/2623
+DOI: https://doi.org/10.51473/rcmos.v1i1.2026.2623
+DATA DE PUBLICACAO: 09/07/2026
+DATA DE ACESSO/EXTRACAO: 15/08/2026
+LICENCA: Creative Commons Attribution (CC BY) - declarada no proprio PDF e na pagina do periodico; permite uso, distribuicao e reproducao com citacao do original
+OBSERVACAO: Texto extraido automaticamente do PDF oficial de acesso aberto, para
+fins academicos, com preservacao integral do conteudo; cabecalhos e rodapes
+repetidos de pagina e numeros de pagina foram removidos na curadoria.
+================================================================================
+
+Doenças cardiovasculares: uma revisão narrativa
+Cardiovascular diseases: a narrative review
+Enfermedades cardiovasculares: una revisión narrativa
+Bárbara Aline Ferreira Assunção
+RESUMO
+Este estudo aborda as doenças cardiovasculares (DCVs), consideradas a principal causa
+de morbimortalidade no Brasil e no mundo, destacando seus fatores de risco, mecanismos
+fisiopatológicos, estratégias de prevenção, métodos diagnósticos e abordagens
+terapêuticas. O objetivo geral foi analisar os principais aspectos das doenças
+cardiovasculares, com ênfase na aterosclerose, no infarto agudo do miocárdio e nas
+estratégias de prevenção e de manejo clínico descritas na literatura científica. A
+metodologia consistiu em uma revisão narrativa da literatura, desenvolvida por meio da
+consulta a artigos científicos, livros e documentos técnicos publicados em bases de dados
+nacionais e internacionais, selecionados de acordo com sua relevância e pertinência ao
+tema. Os estudos analisados evidenciaram que fatores como sedentarismo, alimentação
+inadequada, tabagismo, obesidade, diabetes mellitus e estresse estão associados ao
+desenvolvimento de doenças cardiovasculares, enquanto o diagnóstico precoce, a adoção
+de hábitos saudáveis e a assistência multiprofissional qualificada contribuem para a
+redução da morbimortalidade. Também foram identificados avanços nas estratégias
+terapêuticas, incluindo novas abordagens farmacológicas para insuficiência cardíaca.
+Conclui-se que a prevenção, o diagnóstico precoce, a promoção da saúde e a incorporação
+contínua de evidências científicas constituem pilares fundamentais para o enfrentamento
+das doenças cardiovasculares e para a melhoria da qualidade de vida da população.
+Palavras-chave: Doenças cardiovasculares. Aterosclerose. Infarto agudo do miocárdio.
+Prevenção. Diagnóstico. Tratamento.
+ABSTRACT
+Cardiovascular diseases (CVDs) remain the leading cause of morbidity and mortality
+worldwide, representing a major public health challenge. This study addresses the main
+aspects of cardiovascular diseases, emphasizing risk factors, pathophysiological
+mechanisms, prevention strategies, diagnostic methods, and therapeutic approaches. The
+objective was to analyze the principal characteristics of cardiovascular diseases, with
+emphasis on atherosclerosis, acute myocardial infarction, and current prevention and
+clinical management strategies reported in the scientific literature. The methodology
+consisted of a narrative literature review based on scientific articles, books, and technical
+documents retrieved from national and international databases according to their
+relevance to the proposed topic. The reviewed studies demonstrated that a sedentary
+lifestyle, unhealthy diet, smoking, obesity, diabetes mellitus, and stress are closely
+associated with the development of cardiovascular diseases. In contrast, early diagnosis,
+healthy lifestyle habits, and qualified multidisciplinary care significantly contribute to
+reducing morbidity and mortality. The review also identified advances in therapeutic
+strategies, including novel pharmacological approaches for heart failure management. It
+is concluded that prevention, early diagnosis, health promotion, and the continuous
+incorporation of scientific evidence into clinical practice are essential for reducing the
+burden of cardiovascular diseases and improving population health outcomes.
+
+Keywords: Cardiovascular diseases. Atherosclerosis. Acute myocardial infarction.
+Prevention. Diagnosis. Treatment.
+1 INTRODUÇÃO
+As doenças cardiovasculares (DCVs) abrangem um amplo conjunto de enfermidades que
+acometem o coração e o sistema vascular, incluindo artérias, veias e capilares. Entre elas,
+destaca-se a doença arterial coronariana, considerada uma das principais responsáveis
+pela ocorrência do infarto agudo do miocárdio e de outras complicações cardiovasculares
+graves. Em parte dos casos, essas enfermidades resultam do processo progressivo de
+aterosclerose, caracterizado pelo acúmulo de lipídios na parede dos vasos sanguíneos ao
+longo dos anos, o que compromete o fluxo sanguíneo e favorece eventos cardiovasculares
+fatais.
+Nas últimas décadas, as doenças cardiovasculares consolidaram-se como a principal
+causa de morbimortalidade no Brasil e no mundo, representando um dos maiores desafios
+para os sistemas de saúde. Além do elevado número de óbitos, essas doenças geram
+impactos sociais, econômicos e assistenciais significativos, decorrentes das frequentes
+hospitalizações, das incapacidades funcionais e dos elevados custos dos tratamentos de
+alta complexidade. Esse cenário torna-se ainda mais preocupante em regiões do interior
+do país, onde as limitações na infraestrutura dos serviços de saúde e a escassez de
+profissionais especializados dificultam o acesso a diagnósticos e tratamentos oportunos.
+Estudos recentes demonstram que modelos organizados de assistência cardiovascular
+podem contribuir para a redução da mortalidade e das reinternações hospitalares,
+reforçando a importância do fortalecimento das redes de atenção à saúde (Carvalho,
+2025).
+Diante desse contexto, torna-se imprescindível ampliar as estratégias voltadas à
+prevenção, à identificação precoce dos fatores de risco e à qualificação da assistência aos
+pacientes com doenças cardiovasculares. A adoção de hábitos de vida saudáveis,
+associada ao diagnóstico precoce e ao tratamento baseado em evidências científicas,
+representa uma das principais formas de reduzir a incidência dessas enfermidades e
+minimizar suas complicações.
+O presente estudo possui relevância social por abordar uma das principais causas de
+adoecimento e de morte da população, contribuindo para a disseminação de informações
+
+que favoreçam a prevenção e a promoção da saúde cardiovascular. Sob o aspecto
+profissional, busca subsidiar a atuação dos profissionais de saúde ao reunir evidências
+científicas atualizadas sobre a prevenção, o diagnóstico e o tratamento das doenças
+cardiovasculares. No âmbito acadêmico, pretende ampliar as discussões sobre a temática,
+oferecendo suporte a futuras pesquisas e fortalecendo a produção científica na área.
+O objetivo geral deste estudo é analisar os principais aspectos das doenças
+cardiovasculares, abordando seus fatores de risco, mecanismos fisiopatológicos,
+estratégias de prevenção, métodos diagnósticos e abordagens terapêuticas descritos na
+literatura científica. Como objetivos específicos, busca-se compreender os fatores
+associados ao desenvolvimento das doenças cardiovasculares, descrever os processos
+fisiopatológicos da aterosclerose e do infarto agudo do miocárdio, analisar a importância
+do diagnóstico precoce, discutir o papel da assistência multiprofissional e apresentar as
+principais estratégias preventivas e terapêuticas disponíveis.
+Quanto aos procedimentos metodológicos, trata-se de uma revisão narrativa da literatura,
+desenvolvida a partir da consulta a artigos científicos, livros e documentos técnicos
+publicados em bases de dados nacionais e internacionais, selecionados de acordo com sua
+relevância científica e pertinência ao tema proposto.
+2 MARCO TEÓRICO
+2.1 Doenças Cardiovasculares
+As doenças cardiovasculares (DCVs) constituem um dos principais problemas de saúde
+pública no Brasil e no mundo. Desde o início do século XX, as transformações políticas,
+sociais, científicas, econômicas e nas relações de trabalho modificaram os modos de vida
+da população. Essas mudanças influenciaram os hábitos cotidianos, favorecendo o
+aumento dos fatores de risco associados às doenças cardiovasculares e contribuindo para
+elevados índices de morbidade e mortalidade (Chor et al., 1999).
+Embora associadas ao envelhecimento, as DCVs têm apresentado um crescimento
+expressivo entre adultos jovens. Esse cenário está relacionado a fatores de risco
+modificáveis, como sedentarismo, alimentação inadequada, tabagismo, consumo
+excessivo de bebidas alcoólicas, obesidade, estresse e ansiedade. A adoção desses hábitos
+
+compromete a saúde cardiovascular e aumenta a probabilidade de eventos como infarto
+agudo do miocárdio e acidente vascular cerebral.
+Nesse contexto, a triagem precoce é uma estratégia fundamental para identificar
+indivíduos em situação de risco antes do surgimento de manifestações clínicas. Exames
+simples, como a aferição da pressão arterial, a dosagem da glicemia e a avaliação do perfil
+lipídico, permitem detectar alterações metabólicas e cardiovasculares assintomáticas.
+Quando
+
+há
+
+suspeita
+
+de
+
+doença
+
+cardíaca,
+
+exames
+
+complementares,
+
+como
+
+eletrocardiograma, teste ergométrico e ecocardiograma, auxiliam na confirmação
+diagnóstica e no acompanhamento da evolução clínica, possibilitando intervenções mais
+eficazes (Kamel; Kamel, 1996).
+Estudos recentes demonstram que a identificação precoce dos fatores de risco reduz a
+ocorrência de complicações cardiovasculares e diminui os custos relacionados às
+hospitalizações e aos tratamentos de alta complexidade. Em revisão narrativa da literatura
+envolvendo publicações entre 2019 e 2025, Branco (2025) destaca que a incorporação da
+triagem precoce às políticas públicas de saúde, aliada à educação em saúde e ao
+acompanhamento médico contínuo, constitui uma estratégia eficiente para reduzir a
+incidência de doenças cardiovasculares entre adultos jovens.
+A prevenção das DCVs fundamenta-se na promoção de hábitos saudáveis, incluindo
+alimentação equilibrada, prática regular de atividade física, controle do estresse e da
+ansiedade, abandono do tabagismo, consumo moderado ou ausência de bebidas alcoólicas
+e equilíbrio entre atividades laborais e momentos de lazer (Kamel; Kamel, 1996). Essas
+medidas contribuem não apenas para a prevenção primária, mas também para a melhoria
+da qualidade de vida e a redução dos fatores de risco cardiovasculares.
+Quando a doença já está instalada, o tratamento varia conforme a gravidade e as condições
+clínicas do paciente. A abordagem pode incluir acompanhamento médico, terapia
+farmacológica e mudanças no estilo de vida. Nos casos de maior complexidade,
+procedimentos intervencionistas ou cirúrgicos podem ser necessários, incluindo cirurgias
+de revascularização, reparação de estruturas cardíacas, implante de dispositivos ou, em
+situações extremas, transplante cardíaco.
+
+2.2 Aterosclerose, Infarto Agudo do Miocárdio e Estratégias de Manejo Clínico
+A aterosclerose constitui um dos principais fatores etiológicos das doenças
+cardiovasculares (DCVs), caracterizando-se por ser um processo multifatorial,
+progressivo e de evolução lenta. Seu desenvolvimento está relacionado à interação entre
+predisposição genética, histórico familiar e fatores ambientais, associados ao estilo de
+vida. A ação desses fatores sobre o endotélio vascular desencadeia alterações estruturais
+e funcionais que favorecem a formação de placas ateroscleróticas. A formação da placa
+de ateroma resulta do acúmulo progressivo de lipoproteínas nos espaços intra e
+extracelulares da parede arterial, promovendo disfunção endotelial, alterações da matriz
+extracelular e deposição de trombos. Esse processo pode comprometer qualquer leito
+arterial do organismo, aumentando o risco de eventos como infarto agudo do miocárdio
+(IAM), acidente vascular cerebral e aneurisma da aorta (Chavaglia; Silva, 2010).
+Quando a aterosclerose acomete as artérias coronárias, ocorre redução do fluxo sanguíneo
+para o músculo cardíaco, podendo manifestar-se como angina instável ou evoluir para
+oclusão completa do vaso, culminando no infarto agudo do miocárdio. A extensão da
+lesão depende do grau de obstrução coronariana e da presença de circulação colateral,
+levando o tecido miocárdico a um processo progressivo de isquemia, lesão celular e
+necrose (Pesaro et al., 2004).
+O infarto agudo do miocárdio permanece entre as principais causas de morbimortalidade
+no mundo, com maior incidência em idosos, na faixa etária de 60 a 75 anos. Entretanto,
+avanços na organização da assistência cardiovascular contribuíram para importantes
+reduções da mortalidade intra-hospitalar. Enquanto, na década de 1960, a mortalidade
+média por IAM era de aproximadamente 30%, a implantação das unidades coronarianas
+reduziu esse índice para cerca de 16% (Pesaro et al., 2004). Apesar desses avanços, o
+IAM continua a produzir um impacto epidemiológico e econômico elevado, exigindo
+estratégias permanentes de prevenção, diagnóstico precoce e assistência especializada.
+Estudo epidemiológico realizado na Região de Saúde Tocantins, no estado do Pará, que
+analisou internações entre 2015 e 2024, demonstrou aumento expressivo das
+hospitalizações por IAM em 2022 e 2023, embora tenha sido observada redução gradual
+da mortalidade hospitalar. Os resultados também evidenciaram predominância de
+internações entre homens, maior proporção de óbitos entre mulheres, elevada
+
+concentração de casos na população idosa e crescimento progressivo dos custos
+assistenciais. Os autores destacam a necessidade de fortalecer a rede de atenção às
+urgências cardiovasculares e de implementar estratégias preventivas voltadas aos grupos
+mais vulneráveis (Pinheiro et al., 2026).
+No atendimento ao paciente infartado, a enfermagem desempenha um papel fundamental
+desde a admissão até a reabilitação. O enfermeiro é o primeiro profissional responsável
+pela avaliação clínica, pela identificação de sinais e sintomas, pela monitorização
+contínua e pela administração das terapias iniciais. Revisões integrativas recentes
+demonstram que a rapidez na assistência de enfermagem está associada à redução de
+complicações e da morbimortalidade. Entretanto, persistem desafios relacionados ao
+reconhecimento precoce do IAM, à padronização de protocolos institucionais, ao
+treinamento contínuo das equipes e à autonomia profissional, fatores que influenciam a
+qualidade da assistência prestada (Pedroso et al., 2025; Oliveira, Souza e Barbosa, 2025).
+Após o diagnóstico, o tratamento do IAM pode envolver medidas clínicas,
+farmacológicas, procedimentos intervencionistas e cirurgias de revascularização
+miocárdica, conforme a gravidade do quadro clínico (Miyake; Ferreira, 2000). Além
+disso, novas abordagens terapêuticas vêm ampliando as possibilidades de tratamento das
+doenças cardiovasculares. Entre elas, destacam-se os inibidores do cotransportador de
+sódio-glicose tipo 2 (iSGLT2), desenvolvidos para o tratamento do diabetes mellitus tipo
+2. Evidências recentes demonstram que medicamentos como empagliflozina e
+dapagliflozina reduzem as hospitalizações e os eventos relacionados à insuficiência
+cardíaca com fração de ejeção preservada, independentemente da presença de diabetes,
+consolidando essa classe farmacológica como importante alternativa terapêutica para
+pacientes com insuficiência cardíaca (Kliemann et al., 2025).
+A prevenção das doenças cardiovasculares permanece a estratégia mais eficaz para
+reduzir sua incidência e gravidade. Entre os fatores modificáveis, destaca-se o controle
+adequado do diabetes mellitus tipo 2, condição associada a um aumento do risco
+cardiovascular. Nesse contexto, estudos recentes evidenciam que a dieta mediterrânea
+promove melhora significativa do controle glicêmico, redução da hemoglobina glicada,
+melhora do perfil lipídico, controle da pressão arterial e diminuição da inflamação
+crônica, contribuindo para a redução global do risco cardiovascular. Além de seus
+
+benefícios clínicos, trata-se de um padrão alimentar equilibrado, sustentável e de fácil
+adesão para a população (Palmeira; Malinovski, 2025).
+Dessa forma, o enfrentamento das doenças cardiovasculares exige uma abordagem
+multidisciplinar, integrando prevenção, diagnóstico precoce, assistência qualificada e
+atualização constante das estratégias terapêuticas. A combinação entre a promoção da
+saúde, a qualificação profissional e a incorporação de novas evidências científicas
+representa um dos principais caminhos para reduzir a morbimortalidade associada às
+doenças cardiovasculares e melhorar a qualidade de vida da população.
+CONCLUSÃO
+O presente estudo permitiu analisar os principais aspectos relacionados às doenças
+cardiovasculares, evidenciando sua elevada relevância como problema de saúde pública
+devido aos altos índices de morbimortalidade e ao impacto social, econômico e
+assistencial que essas enfermidades representam para a população e para os sistemas de
+saúde.
+Buscou-se compreender os fatores associados ao desenvolvimento de doenças
+cardiovasculares, destacando a influência da predisposição genética e dos fatores de risco
+modificáveis, como sedentarismo, alimentação inadequada, tabagismo, consumo
+excessivo de bebidas alcoólicas, obesidade, estresse e diabetes mellitus tipo 2. Verificouse que a adoção de hábitos de vida saudáveis constitui uma das estratégias mais eficazes
+para reduzir a incidência dessas doenças e promover uma melhor qualidade de vida.
+Também foi possível compreender os mecanismos fisiopatológicos da aterosclerose e sua
+estreita relação com o desenvolvimento do infarto agudo do miocárdio, ressaltando que a
+formação progressiva das placas ateroscleróticas compromete o fluxo sanguíneo e
+favorece a ocorrência de eventos cardiovasculares fatais. Observou-se, ainda, que, apesar
+dos avanços obtidos nas últimas décadas no diagnóstico e no tratamento, o infarto agudo
+do miocárdio continua apresentando elevada relevância epidemiológica, exigindo
+aprimoramento contínuo das estratégias de prevenção e de assistência.
+Destaca-se, ainda, a importância da identificação precoce dos fatores de risco e da
+realização de exames de rastreamento, o que permite intervenções oportunas capazes de
+reduzir complicações, hospitalizações e custos assistenciais. Nesse contexto, verificou-se
+
+que a atuação integrada das equipes multiprofissionais da enfermagem desempenha papel
+decisivo na identificação de sinais clínicos, no atendimento inicial, no monitoramento
+contínuo e na implementação de condutas terapêuticas baseadas em evidências
+científicas.
+No que se refere ao tratamento, constatou-se que a evolução das terapias farmacológicas
+e das intervenções cardiovasculares ampliou as possibilidades de controle da doença e de
+redução das complicações. Além disso, novas evidências científicas demonstram
+resultados promissores de abordagens terapêuticas inovadoras, como o uso de inibidores
+do cotransportador de sódio-glicose tipo 2 (iSGLT2), reforçando a importância da
+atualização contínua das práticas clínicas.
+Conclui-se, portanto, que o enfrentamento das doenças cardiovasculares depende da
+integração entre ações de promoção da saúde, prevenção, diagnóstico precoce, assistência
+multiprofissional qualificada e incorporação contínua de evidências científicas ao
+cuidado clínico. Espera-se que este estudo contribua para ampliar o conhecimento sobre
+a temática, subsidiando profissionais de saúde, pesquisadores e gestores na elaboração de
+estratégias que fortaleçam a prevenção, qualifiquem a assistência e promovam melhores
+desfechos clínicos e maior qualidade de vida para a população acometida por doenças
+cardiovasculares.
+REFERÊNCIAS
+Branco, F. C. de M. C. (2025). A importância da triagem precoce na prevenção de
+doenças cardiovasculares em adultos jovens. Revista Científica Brasileira de Saúde e
+Medicina (Brazilian Scientific Journal of Health and Medicine), 1(1).
+https://doi.org/10.51473/rbmed.v1i1.2025.2
+Carvalho, M. M. B. (2025). Modelo de cardiologia comunitária aplicado à UTI semiintensiva pública: redução da mortalidade e das reinternações no interior do Maranhão.
+RCMOS
+Revista
+Científica
+Multidisciplinar
+O
+Saber,
+1(1).
+https://doi.org/10.51473/rcmos.v1i1.2025.945
+Chavaglia, A. F., & Silva, C. A. (2010). Análise dos fatores de risco cardiovascular na
+hipertensão arterial sistêmica. Universidade da Amazônia.
+Chor, D., et al. (1999). Doenças cardiovasculares: Panorama da mortalidade no Brasil. In
+M. C. S. Minayo (Org.), Os muitos Brasis: Saúde e população na década de 80 (2ª ed.).
+ABRASCO; HUCITEC.
+Kamel, D., & Kamel, J. G. (1996). Como prevenir o infarto do miocárdio.
+Sprint.Kliemann, B. M., Silva, H. F., Fournier, V. V., & Rigo, V. D. A. (2025). Eficácia
+dos inibidores de SGLT2 na redução de eventos cardiovasculares maiores em pacientes
+com insuficiência cardíaca com fração de ejeção preservada: Revisão sistemática da
+
+literatura. RCMOS - Revista Científica Multidisciplinar O Saber, 1(2).
+https://doi.org/10.51473/rcmos.v1i2.2025.1679
+Miyake, E. R. N., & Ferreira, B. A. (2000). Infarto agudo do miocárdio: tratamento,
+reabilitação e controle de fatores de risco. Revista de Enfermagem da UNISA, 1, 24–29.
+Oliveira, G. R. B., Souza, N. A., & Barbosa, E. E. P. (2025). Atuação do enfermeiro no
+atendimento ao infarto agudo do miocárdio (IAM) nos serviços intra-hospitalares de
+urgência e emergência no Brasil. RCMOS - Revista Científica Multidisciplinar O Saber,
+1(1). https://doi.org/10.51473/rcmos.v1i1.2025.1181
+Palmeira, J. S., & Malinovski, J. (2025). Impacto da dieta mediterrânea no controle
+glicêmico e nos fatores de risco cardiovasculares em pessoas com diabetes tipo 2.
+RCMOS
+Revista
+Científica
+Multidisciplinar
+O
+Saber,
+1(2).
+https://doi.org/10.51473/rcmos.v1i2.2025.1253
+Pedroso, E. R. B., Lima, T. F., & Barbosa, E. E. P. (2025). Cuidados de enfermagem em
+emergências cardíacas no Brasil: manejo do infarto agudo do miocárdio em idosos de 60
+a 75 anos nos últimos 10 anos: revisão integrativa. RCMOS - Revista Científica
+Multidisciplinar O Saber, 1(1). https://doi.org/10.51473/rcmos.v1i1.2025.1167
+Pesaro, A. E. P., Serrano Júnior, C. V., & Nicolau, J. C. (2004). Infarto agudo do
+miocárdio: síndrome coronariana aguda com supradesnivelamento do segmento ST.
+Revista da Associação Médica Brasileira, 50(2), 214–220.
+Pinheiro, C. T., Monarcha Júnior, J. A. S., Leão, J. P. S., Nunes, V. L. M., Paulucio, D. S.
+S., Rodrigues, I. C., Alcantara, N. L., Frazão, L. C., Rego, E. L., Maia, A. L. B., Araújo,
+T. R. F., & Carvalho, B. M. S. (2026). Perfil epidemiológico de pacientes internados por
+infarto agudo do miocárdio na região do Baixo Tocantins, no Pará, entre 2015 e 2024.
+Revista Científica Brasileira de Saúde e Medicina (Brazilian Scientific Journal of Health
+and Medicine), 1(1). https://doi.org/10.51473/rbmed.v1i1.2026.22
