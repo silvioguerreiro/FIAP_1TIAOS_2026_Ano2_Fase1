@@ -11,7 +11,7 @@
 ## Grupo 50
 
 ## 👨‍🎓 Integrantes:
-- <a href="https://www.linkedin.com/company/inova-fusca">Silvio Prestes Guerreiro Junior — RM567958</a>
+- <a href="https://www.linkedin.com/in/silvio-guerreiro">Silvio Prestes Guerreiro Junior — RM567958</a>
 
 ## 👩‍🏫 Professores
 - **Tutor(a):** [Sabrina Otoni](https://www.linkedin.com/company/inova-fusca)
@@ -162,6 +162,8 @@ print(img.size, img.mode)  # (512, 512)
 
 ## 🗃 Histórico de lançamentos
 
+* 0.2.0 - 27/08/2026
+    * README reestruturado no modelo oficial FIAP (Grupo 50, professores, logo institucional em `assets/`) e ajustes finais de identificação dos integrantes.
 * 0.1.0 - 15/08/2026
     * Entrega da Fase 1 — Batimentos de Dados: dataset numérico (UCI Heart Disease/Cleveland, 303 × 15), corpus textual (2 artigos CC BY), acervo visual (120 angiogramas ARCADE), dicionário de dados, matriz de proveniência e licenças, e seção de Governança de Dados, viés e LGPD.
 
