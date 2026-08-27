@@ -14,7 +14,7 @@
 - <a href="https://www.linkedin.com/in/silvio-guerreiro">Silvio Prestes Guerreiro Junior — RM567958</a>
 
 ## 👩‍🏫 Professores
-- **Tutor(a):** [Sabrina Otoni](https://www.linkedin.com/company/inova-fusca)
+- **Tutor(a):** [Sabrina Otoni](https://www.linkedin.com/in/sabrina-otoni-22525519b/)
 - **Coordenador(a):** [André Godoi Chiovato](https://www.linkedin.com/company/inova-fusca)
 
 ## 📜 Descrição
